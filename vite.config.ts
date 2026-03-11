@@ -5,6 +5,7 @@ export default defineConfig({
   plugins: [react()],
   preview: {
     host: true,
-    allowedHosts: "all"
+    port: process.env.PORT,
+    allowedHosts: ["nitish-potfolio-4.onrender.com"]
   }
 });
