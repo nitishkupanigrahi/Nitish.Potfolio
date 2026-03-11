@@ -1,32 +1,16 @@
-# Nitish.Potfolio
-# Personal Portfolio Website
+# My Portfolio Wesbite - Overview 🚀
 
-This is my personal portfolio website built using **Node.js, HTML, CSS, and JavaScript**. The purpose of this website is to showcase my skills, projects, and professional background in **Data Analytics, Business Analysis, and Technology**.
+This repository contains the open source version of my porfolio website.
+Do check it out!
 
-The website includes sections such as **About Me, Skills, Projects, and Contact Information** so visitors can easily learn about my work and experience. It is designed with a clean and responsive interface to provide a smooth user experience on both desktop and mobile devices.
+## Instructions 🛠️
 
-This project is part of my journey to build practical development skills and create a professional online presence. The website is deployed online so that anyone can explore my portfolio and see the projects I have worked on.
+I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
 
-## Features
+**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
-* Responsive modern design
-* Interactive UI
-* Projects showcase section
-* Skills and experience display
-* Contact information for networking
+![Portfolio-Preview](public/images/preview.png)
 
-## Technologies Used
+## License
 
-* Node.js
-* Express.js
-* HTML5
-* CSS3
-* JavaScript
-
-## Purpose
-
-This portfolio website helps demonstrate my technical abilities and serves as a central place to present my work, projects, and career interests.
-
-## Author
-
-Nitish Kumar Panigrahi
+This project is open source and available under the [MIT License](LICENSE).
